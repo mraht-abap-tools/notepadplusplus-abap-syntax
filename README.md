@@ -1,2 +1,1 @@
-# notepad-abap-syntax
-Notepad++ ABAP Syntax
+# Notepad++ ABAP Syntax
